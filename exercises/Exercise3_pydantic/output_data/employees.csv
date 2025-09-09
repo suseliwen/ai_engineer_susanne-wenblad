@@ -1,0 +1,21 @@
+first_name,last_name,phone_number,email,department,salary,title
+Anna,Svensson,+46 701 234567,anna.svensson@fortaget.se,HR,32500,HR-Specialist
+Johan,Karlsson,+46 702 345678,johan.karlsson@fortaget.se,IT,45000,Systemutvecklare
+Maria,Larsson,+46 703 456789,maria.larsson@fortaget.se,marketing,38000,Marknadskoordinator
+Erik,Johansson,+46 704 567890,erik.johansson@fortaget.se,sales,42000,Säljare
+Sara,Andersson,+46 705 678901,sara.andersson@fortaget.se,IT,39000,IT-Tekniker
+Daniel,Nilsson,+46 706 789012,daniel.nilsson@fortaget.se,HR,30000,Löneadministratör
+Emma,Berg,+46 707 890123,emma.berg@fortaget.se,marketing,41000,Digital Marknadsförare
+Magnus,Lindgren,+46 708 901234,magnus.lindgren@fortaget.se,sales,48000,Key Account Manager
+Sofia,Lundgren,+46 709 012345,sofia.lundgren@fortaget.se,IT,47000,Nätverksadministratör
+David,Olsson,+46 720 123456,david.olsson@fortaget.se,HR,35000,Rekryterare
+Elin,Dahlberg,+46 721 234567,elin.dahlberg@fortaget.se,marketing,36000,Kommunikationsspecialist
+Peter,Eriksson,+46 722 345678,peter.eriksson@fortaget.se,sales,49000,Försäljningschef
+Linda,Lindström,+46 723 456789,linda.lindstrom@fortaget.se,IT,43000,Produktägare
+Anders,Söderberg,+46 724 567890,anders.soderberg@fortaget.se,HR,50000,HR-Chef
+Ida,Gustafsson,+46 725 678901,ida.gustafsson@fortaget.se,marketing,33000,SEO-Specialist
+Marcus,Pettersson,+46 726 789012,marcus.pettersson@fortaget.se,sales,37000,Innesäljare
+Kristina,Jansson,+46 727 890123,kristina.jansson@fortaget.se,IT,46000,DevOps Engineer
+Fredrik,Jonsson,+46 728 901234,fredrik.jonsson@fortaget.se,HR,28000,Kompetensutvecklare
+Julia,Persson,+46 729 012345,julia.persson@fortaget.se,marketing,29000,Brand Manager
+Mikael,Forsberg,+46 760 123456,mikael.forsberg@fortaget.se,IT,44000,Säkerhetsspecialist
